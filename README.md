@@ -7,3 +7,6 @@ This code is from the Medium article titled: "[Reinforcement Learning, Part 4: O
 
 #### 02. Temporal-Difference Predicition:
 This code is the exact implementation of the Medium article titled: "[Reinforcement Learning in Python, Temporal-Difference Predicition](https://medium.com/reinforcement-learning-in-python-temporal/reinforcement-learning-in-python-temporal-difference-prediction-5b3b4e46f22f)" by [James Mukuya](https://medium.com/@james.mukuya).
+
+#### 03. A Python Realization of Q-Learning:
+This realization is derived from the Medium Article: "[Reinforcement Learning, Part 6: TD(λ) & Q-learning](https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-6-td-%CE%BB-q-learning-99cdfdf4e76a)" by "[Dan Lee](https://medium.com/@Adline125)"
