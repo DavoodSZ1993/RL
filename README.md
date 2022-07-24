@@ -10,3 +10,7 @@ This code is the exact implementation of the Medium article titled: "[Reinforcem
 
 #### 03. A Python Realization of Q-Learning:
 This realization is derived from the Medium Article: "[Reinforcement Learning, Part 6: TD(λ) & Q-learning](https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-6-td-%CE%BB-q-learning-99cdfdf4e76a)" by "[Dan Lee](https://medium.com/@Adline125)"
+
+
+#### 04. Monte Carlo Predicition: 
+The Monte Carlo method is used for policy evaluation for OpenAI Gyms Blackjack environment.
