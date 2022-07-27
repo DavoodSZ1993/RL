@@ -19,4 +19,8 @@ The Monte Carlo method is used for policy evaluation for OpenAI Gyms Blackjack e
 The Monte Carlo Control method is implemented for achieving optimal policy in OpenAI Gyms Blackjack environment.
 
 #### 06. SARSA - On Policy TD Control
+Core Mathematical Equation"
 
+$$
+Q(S_t, A_t) \leftarrow Q(S_t, A_t) + \alpha[R_(t+1)]
+$$
