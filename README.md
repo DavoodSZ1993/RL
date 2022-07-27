@@ -22,5 +22,5 @@ The Monte Carlo Control method is implemented for achieving optimal policy in Op
 Core Mathematical Equation"
 
 $$
-Q(S_t, A_t) \leftarrow Q(S_t, A_t) + \alpha[R_{t+1} + \gammaQ(S_{t+1}, A_{t+1}) - Q(S_t, A_t)]
+Q(S_t, A_t) \leftarrow Q(S_t, A_t) + \alpha[R_{t+1} + \gamma Q(S_{t+1}, A_{t+1}) - Q(S_t, A_t)]
 $$
