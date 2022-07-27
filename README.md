@@ -14,3 +14,9 @@ This realization is derived from the Medium Article: "[Reinforcement Learning, P
 
 #### 04. Monte Carlo Predicition: 
 The Monte Carlo method is used for policy evaluation for OpenAI Gyms Blackjack environment.
+
+#### 05. Monte Carlo Control:
+The Monte Carlo Control method is implemented for achieving optimal policy in OpenAI Gyms Blackjack environment.
+
+#### 06. SARSA - On Policy TD Control
+
