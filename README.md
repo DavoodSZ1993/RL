@@ -29,5 +29,5 @@ $$
 Core update equation:
 
 $$
-q(s_t, a_t) \leftarrow q(s_t, a_t) + \alpha[R_{t+1} + \gamma argmax_{a\prime}q(s\prime_{t+1}, a\prime) - q(s_t, a_t)]
+q(s_t, a_t) \leftarrow q(s_t, a_t) + \alpha[R_{t+1} + \gamma . argmax_{a\prime}q(s\prime_{t+1}, a\prime) - q(s_t, a_t)]
 $$
