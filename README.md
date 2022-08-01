@@ -24,3 +24,10 @@ Core Mathematical Equation:
 $$
 Q(S_t, A_t) \leftarrow Q(S_t, A_t) + \alpha[R_{t+1} + \gamma Q(S_{t+1}, A_{t+1}) - Q(S_t, A_t)]
 $$
+
+#### 07. Q-Learning: Off Policy Control
+Core update equation:
+
+$$
+q(s_t, a_t) \leftarrow q(s_t, a_t) + \alpha[R_{t+1} + \gamma argmax_{a\prime}q(s\prime_{t+1}, a\prime) - q(s_t, a_t)]
+$$
