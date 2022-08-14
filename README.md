@@ -31,3 +31,7 @@ Core update equation:
 $$
 q(s_t, a_t) \leftarrow q(s_t, a_t) + \alpha[R_{t+1} + \gamma . argmax_{a\prime}q(s\prime_{t+1}, a\prime) - q(s_t, a_t)]
 $$
+
+#### 08. Deep Q-Network:
+I planned to have an exact implementation of the official PyTorch tutorial titled: [Reinfrocement Learning (DQN) Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html). However I ran into issues while trying to implement the code. 
+
