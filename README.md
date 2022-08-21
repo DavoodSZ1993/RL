@@ -32,6 +32,9 @@ $$
 q(s_t, a_t) \leftarrow q(s_t, a_t) + \alpha[R_{t+1} + \gamma . argmax_{a\prime}q(s\prime_{t+1}, a\prime) - q(s_t, a_t)]
 $$
 
-#### 08. Deep Q-Network:
+#### 08. Deep Q-Network I:
 I planned to have an exact implementation of the official PyTorch tutorial titled: [Reinfrocement Learning (DQN) Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html). However I ran into issues while trying to implement the code. 
+
+#### 09. Deep Q-Network II:
+The code is based on the YouTube tutorial video titled: "[Deep Q-Learning Networks](https://www.youtube.com/watch?v=OYhFoMySoVs)"
 
